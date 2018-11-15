@@ -1,1 +1,1 @@
-# comments provided by the instructor and the teaching assistants
+# Comments provided by the instructor or the teaching assistants after grading your submission.
