@@ -3,8 +3,9 @@
 This homework assignment verifies if you have the required software and packages 
 installed on your computer.
 
-Follow the steps [here](https://github.com/HPM573/SoftwareRequirements/blob/master/README.md) 
-to install the required software and packages and then take the following steps:
+First, follow the steps [here](https://github.com/HPM573/SoftwareRequirements/blob/master/README.md) 
+to install the required software and packages, and 
+then take the following steps to submit this homework assignment:
 1. Download this repository (click [here](https://github.com/HPM573/BasicGitHubOperations/blob/master/README.md) 
 for how to download a GitHub repository).
 2. In PyCharm, open the file 'TestRequirements.py' in this repository and enter your name 
