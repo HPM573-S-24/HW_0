@@ -1,4 +1,4 @@
-# HW 0
+# Homework Assignment 0
 
 This homework assignment verifies if you have the required software and packages 
 installed on your computer.
