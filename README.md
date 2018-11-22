@@ -12,7 +12,7 @@ for instructions on how to download a GitHub repository).
 file `TestRequirements.py`:
     - Enter your first and last name) in the place of `John Smith`,
     - Enter your e-mail address in the place of `john.smith@yale.edu`, and
-    - Enter you GitHub ID in the place of `jsmith123``. 
+    - Enter you GitHub ID in the place of `jsmith123`. 
 3. Run this python script (you can right-click the editor, 
 and on the context menu click on Run 'TestRequirements').
 4. If you have the required packages, a figure will be added to the current 
