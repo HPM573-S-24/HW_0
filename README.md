@@ -10,7 +10,7 @@ then take the steps below to submit this homework assignment:
 for instructions on how to download a GitHub repository).
 2. Open this project in PyCharm, and make the following changes in the 
 file `TestRequirements.py`:
-    - Enter your first and last name) in the place of `John Smith`,
+    - Enter your first and last name in the place of `John Smith`,
     - Enter your e-mail address in the place of `john.smith@yale.edu`, and
     - Enter you GitHub ID in the place of `jsmith123`. 
 3. Run this python script (you can right-click the editor, 
