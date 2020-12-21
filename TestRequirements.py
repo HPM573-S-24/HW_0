@@ -24,5 +24,5 @@ print('The standard normal distribution at x=0:', norm.cdf(0))
 # draw histogram to test mathplotlib
 plt.hist(sample, bins='auto')
 plt.title(YOUR_NAME + '\n'+YOUR_EMAIL + ', @'+YOUR_GITHUB_ID + '\nPython version: ' + platform.python_version())
-plt.savefig(YOUR_NAME+'.png')
+plt.savefig(YOUR_NAME+'.png', bbox_inches='tight')
 
